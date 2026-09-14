@@ -14,18 +14,17 @@ title: Vue d'ensemble du projet
 
 !!! info "Informations générales"
     **Session**: Été 2026  
-    **Auteur(s)**: <!-- Nom de chaque membre (matricule)  -->  
+    **Auteur**: Noura Deconde
     **Thème(s)**: <!-- Thèmes principaux abordés dans le projet  -->  
-    **Superviseur(s)**: <!-- Nom du superviseur (affiliation)  -->  
-    **Collaborateur(s):** <!-- Nom de(s) collaborateur(s) et partenaire(s)` -->  
+    **Superviseur(s)**: Benoit Baudry
 
 ## Description du projet
 
-> :bulb: N'oubliez pas d'effacer ou mettre en commentaires les notes (`>`) en début de section
+Le projet MONA permet de découvrir l'art public à Montréal, à travers une application mobile grace à la géolocalisation. Les utilisateurs peuvent photographier, sauvegarder et ainsi découvrire des oeuvres d'art autour d'eux. Chaque oeuvre est accompagnée d’une description permettant aux utilisateurs de mieux comprendre ce qu’ils découvrent. Ce semestre d'automne 2026 je participe a ce projet en tant que développeuse mobile.
 
 ### Contexte
-
-> Présentez le contexte général dans lequel s’inscrit votre projet (social, organisationnel, technologique, éducatif, environnemental, etc.).
+ 
+Ce projet s’inscrit dans un contexte de valorisation de l’art public et du patrimoine culturel montréalais sous la maison MONA, un organisme a but non-lucratif.
 
 ### Problématique
 
