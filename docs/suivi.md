@@ -28,7 +28,15 @@ Je suis allée a un des parcours proposé par la maison MONA, où on s'est prome
 ### Notes
 
 
-!!! TODO
-    - [ ] Lors de la description de l'app, on ne peut pas retourner en arrière
+!!! Choses pertinantes à mentionner pendant la réunion
+    - [ ] Lors du tutoriel, on ne peut pas retourner en arrière
     - [ ] Peut pas changer la photo de l'oeuvre une fois téléversé dans l'app
-    - [ ] Les icones sont flous
+
+## Semaine 2 (14–20 septembre)
+
+### Travail réalisé
+- Première réunion avec Anissa, Mariama, Jonathan et Léna
+- Commencer mon site web
+- Planifier les horaires où je pourrais travailler sur le projet 
+
+Avec le début des cours j'ai consacré 2 plages horaires dans ma semaine pour travailler sur le projet, pendant lesquels j'ai pu commencer mon site web. J'ai aussi eu ma première reunion avec une partie de l'èquipe dev, où on m'as montré un peu le coté serveur de l'application ainsi que le fontionnement des réunions. De plus j'ai pu programmer une réunion pour la semaine prochaine avec Jonathan pour qu'il me montre le travail qu'il a réalisé cet été, ainsi que le fonctionnement du développement mobile chez la maison MONA.
