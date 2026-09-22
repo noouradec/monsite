@@ -13,9 +13,6 @@ title: Synthèse
 
 # Évaluation
 
-> :bulb: Cette page présente une vue d'ensemble du projet, depuis les études réalisées avant le développement jusqu'au bilan final.
-> Elle ne remplace pas le rapport final. Elle permet plutôt de documenter progressivement les principales décisions, réalisations et conclusions du projet.
-
 ## Structure suggérée
 
 > La structure suivante est donnée à titre indicatif.  
@@ -36,6 +33,10 @@ title: Synthèse
 > * les choix de conception ou d'approche qui en découlent.
 >
 > Il ne s'agit pas de documenter toutes vos recherches, mais de présenter les éléments qui ont **réellement influencé la direction prise par le projet**.
+
+Pour mieux comprendre le projet, dés ma première semaine de cours, je suis allée a un parcours présenté par la maison MONA, pour pouvoir utiliser l'application pour la première fois et surtout comprendre son fonctionnement.
+
+Pour mieux comprendre la problèmatique et le travail que j'aurais a réaliser, j'ai exploré la base de code et noté quelques questions que j'avais a posé au developpeur logiciel qui y travaillait avant moi.
 
 ### 2. Réalisation
 

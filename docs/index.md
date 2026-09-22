@@ -14,9 +14,9 @@ title: Vue d'ensemble du projet
 
 !!! info "Informations générales"
     **Session**: Été 2026  
-    **Auteur**: Noura Deconde
-    **Thème(s)**: <!-- Thèmes principaux abordés dans le projet  -->  
-    **Superviseur(s)**: Benoit Baudry
+    **Auteur**: Noura Deconde   
+    **Thème(s)**: Médiatisation de l'art public     
+    **Superviseur**: Benoit Baudry  
 
 ## Description du projet
 
@@ -30,6 +30,8 @@ Ce projet s’inscrit dans un contexte de valorisation de l’art public et du p
 
 > Décrivez le problème central ou la question de recherche que votre projet cherche à adresser, pourquoi s'y intéresser et les faiblesses des solutions actuelles. 
 > Le problème doit pouvoir être compris indépendamment de la solution envisagée.
+
+
 
 ### Proposition et objectifs
 
@@ -51,6 +53,7 @@ Ce projet s’inscrit dans un contexte de valorisation de l’art public et du p
 
 | Activités                      | Début   |   Fin   | Livrable                            | Statut      |
 |--------------------------------|---------|---------|-------------------------------------|-------------|
-| Ouverture de projet            | 4 mai   | 15 mai  | Proposition de projet               | ✅ Terminé  |
-| Études préliminaires           | 4 mai   | 22 mai  | Document d'analyse                  | 🔄 En cours |
-| Présentation + Rapport         | 7 aout  | 14 aout | Présentation + Rapport              | ⏳ À venir  |
+| Première réunion.              | 8 septembre| 8 septembre | Prise de notes.              | ✅ Terminé  |
+| Études préliminaires / Intégration| 14 septembre  | 20 septembre| Document d'analyse         | ✅ Terminé |
+| Code / Développement           | 21 septembre|             |  Documentation sur site      | En cours   |
+| Présentation + Rapport         |    |    | Présentation + Rapport              | ⏳ À venir  |
