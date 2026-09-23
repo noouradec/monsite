@@ -46,3 +46,20 @@ Avec le début des cours j'ai consacré 2 plages horaires dans ma semaine pour t
 
 ### Travail réalisé
 - Réunion avec Jonathan
+- Installation de tout les fichiers pour dev
+
+Jonathan a pu me montrer sur quoi il a travaillé cet été; les utilisaeurs recoivent une notification quand ils sont proches d'oeuvres à Montréal pour leur permettre de découvrir l'art autour d'eux, cependant il a implementé cela sur Android ce qui me pousse a voulour travailler sur l'implémentation Apple. Je cherche encore sur quoi faire le centre de mon projet ce semestre, je pense que pour commencer à me familiariser avec le développment je vais rajouter une option "Retour" pour la page tutoriel qu'on a quand on ouvre l'application pour la première fois. Je vais faire ca dès que Christian m'aidera pour l'installation de toutt ce dont j'aurais besoin pour développer mon projet.
+
+### Notes
+
+
+!!! Idées pour le projet
+    - [ ] Notifications IOS
+    - [ ] Améliorer la recherche dans l'annulaire
+    - [ ] Améliorer la galerie dans "ma collection", ajouter un filtrage,..
+
+Je pense choisir l'amélioration de la recherche dans l'annulaire avec ces sous-objectifs: 
+1. Reprenser l'interface de recherche
+2. Ajouter plus de filtres (Quartier, type d'oeuvre, artiste, découvert ou pas)
+3. Ajouter options de tri
+4. Ajouter un checkbox si c'est découvert ou pas
