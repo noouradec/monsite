@@ -29,8 +29,8 @@ Je suis allée a un des parcours proposé par la maison MONA, où on s'est prome
 
 
 !!! Choses pertinantes à mentionner pendant la réunion
-    - [ ] Lors du tutoriel, on ne peut pas retourner en arrière
-    - [ ] Peut pas changer la photo de l'oeuvre une fois téléversé dans l'app
+    - Lors du tutoriel, on ne peut pas retourner en arrière
+    - Peut pas changer la photo de l'oeuvre une fois téléversé dans l'app
 
 ## Semaine 2 (14–20 septembre)
 
@@ -48,18 +48,22 @@ Avec le début des cours j'ai consacré 2 plages horaires dans ma semaine pour t
 - Réunion avec Jonathan
 - Installation de tout les fichiers pour dev
 
-Jonathan a pu me montrer sur quoi il a travaillé cet été; les utilisaeurs recoivent une notification quand ils sont proches d'oeuvres à Montréal pour leur permettre de découvrir l'art autour d'eux, cependant il a implementé cela sur Android ce qui me pousse a voulour travailler sur l'implémentation Apple. Je cherche encore sur quoi faire le centre de mon projet ce semestre, je pense que pour commencer à me familiariser avec le développment je vais rajouter une option "Retour" pour la page tutoriel qu'on a quand on ouvre l'application pour la première fois. Je vais faire ca dès que Christian m'aidera pour l'installation de toutt ce dont j'aurais besoin pour développer mon projet.
+Jonathan a pu me montrer sur quoi il a travaillé cet été; les utilisaeurs recoivent une notification quand ils sont proches d'oeuvres à Montréal pour leur permettre de découvrir l'art autour d'eux, cependant il a implementé cela sur Android ce qui me pousse a voulour travailler sur l'implémentation Apple. Je cherche encore sur quoi faire le centre de mon projet ce semestre, je pense que pour commencer à me familiariser avec le développment je vais rajouter une option "Retour" pour la page tutoriel.  
+J'ai eu une réunion avec Christian qui m'as aidé à installé les logiciels et les fichiers dont j'avais besoin, et par la suite j'ai ajouter la fonctionnalité du retour arrière dans le tutoriel de l'application. Cependant au lieu de faire une fléche retour arrière j'ai fait en sorte que lorsqu'on click sur la moitié gauche de l'écran on revient à la page d'avant et la moitié à droite pour passer a la page suivante.
 
 ### Notes
 
 
 !!! Idées pour le projet
-    - [ ] Notifications IOS
-    - [ ] Améliorer la recherche dans l'annulaire
-    - [ ] Améliorer la galerie dans "ma collection", ajouter un filtrage,..
+    - Notifications IOS
+    - Améliorer la recherche dans l'annulaire
+    - Améliorer la galerie dans "ma collection", ajouter un filtrage,..
 
 Je pense choisir l'amélioration de la recherche dans l'annulaire avec ces sous-objectifs: 
-1. Reprenser l'interface de recherche
-2. Ajouter plus de filtres (Quartier, type d'oeuvre, artiste, découvert ou pas)
-3. Ajouter options de tri
-4. Ajouter un checkbox si c'est découvert ou pas
+
+<ol>
+  <li>Repenser l'interface de recherche</li>
+  <li>Ajouter plus de filtres (Quartier, type d'oeuvre, artiste, découvert ou pas)</li>
+  <li>Ajouter options de tri</li>
+  <li>Ajouter un checkbox si c'est découvert ou pas</li>
+</ol>
