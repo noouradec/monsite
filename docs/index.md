@@ -28,19 +28,29 @@ Ce projet s’inscrit dans un contexte de valorisation de l’art public et du p
 
 ### Problématique
 
-> Décrivez le problème central ou la question de recherche que votre projet cherche à adresser, pourquoi s'y intéresser et les faiblesses des solutions actuelles. 
-> Le problème doit pouvoir être compris indépendamment de la solution envisagée.
+L’application MONA permet aux utilisateurs de découvrir des œuvres d’art public à travers un annuaire. Cependant, quand le nombre de découvertes augmente, il peut devenir plus difficile pour l’utilisateur de parcourir les résultats.
 
+L’enjeu est donc de faciliter la recherche et la consultation des découvertes dans l’annuaire, afin que l’utilisateur puisse trouver plus facilement les découvertes qui l’intéressent.
 
+Les fonctionnalités actuelles de recherche et de filtrage permettent déjà de retrouver des découvertes, mais l’affichage et l’organisation des résultats peuvent encore être améliorés pour rendre la consultation plus claire et intuitif.
+
+Comment améliorer la recherche et l’affichage des découvertes dans l’annuaire MONA afin de faciliter leur consultation par les utilisateurs?
 
 ### Proposition et objectifs
 
-> Présentez votre proposition de projet et les objectifs visés. Expliquez en quoi votre approche répond à la problématique identifiée. 
-> Assurez-vous d'avoir, dans la mesure du possible, des objectifs mesurables, raisonnnables dans le temps et non redondants entre eux.
+À la fin du projet, je souhaite :
+
+- Améliorer l’affichage des résultats de l’annuaire
+- Ajouter un indicateur de statut permettant de distinguer les découvertes déjà réalisées des découvertes qui restent à découvrir.
+- Repenser l’interface des filtres afin de rendre les différents critères plus clairs
+- Implémenter et tester les modifications dans l’application afin de vérifier qu’elles fonctionnent correctement et qu’elles ne changent pas les fonctionnalités existantes.
 
 ### Méthodologie
-
-> Expliquez comment vous comptez aborder le projet : démarche générale, grandes étapes prévues, itérations, types de validations envisagées.
+1. Analyser l’interface actuelle de l’annuaire, notamment l’affichage des résultats, la recherche et les filtres, afin d’identifier les éléments pouvant être améliorés
+2. Bien définir les améliorations à apporter à partir des problèmes observés et des contraintes techniques de l’application.
+3. Concevoir des prototypes sur mon Ipad des nouvelles interfaces afin de tester différentes façons d’organiser les informations avant leur implémentation.
+4. Implémenter tout cela progressivement.
+5. Tester les fonctionnalités à l’aide de différents scénarios d’utilisation.
 
 ### Validation et Évaluation
 

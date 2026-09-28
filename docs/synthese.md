@@ -20,42 +20,25 @@ title: Synthèse
 
 ### 1. Études préliminaires
 
-> Présentez les travaux qui ont permis de **mieux comprendre le problème et d'orienter le projet**.
->
-> Selon votre projet, cela peut notamment comprendre :
->
-> * l'analyse du contexte et du problème ;
-> * l'étude des besoins ou des utilisateurs ;
-> * l'exploration d'une base de code, de données ou d'une infrastructure existante ;
-> * l'étude de solutions, outils ou technologies existants ;
-> * des prototypes ou expérimentations exploratoires ;
-> * l'analyse de contraintes techniques ou organisationnelles ;
-> * les choix de conception ou d'approche qui en découlent.
->
-> Il ne s'agit pas de documenter toutes vos recherches, mais de présenter les éléments qui ont **réellement influencé la direction prise par le projet**.
-
 Pour mieux comprendre le projet, dés ma première semaine de cours, je suis allée a un parcours présenté par la maison MONA, pour pouvoir utiliser l'application pour la première fois et surtout comprendre son fonctionnement.
 
 Pour mieux comprendre la problèmatique et le travail que j'aurais a réaliser, j'ai exploré la base de code et noté quelques questions que j'avais a posé au developpeur logiciel qui y travaillait avant moi.
 
+Afin de mieux comprendre la structure et le fonctionnement du code, j’ai également réalisé une première modification dans l’application : l’ajout d’une navigation par tap gauche/droite dans le tutoriel, permettant de revenir à la page précédente ou de passer à la suivante.
+En parallèle, j’ai analysé l’affichage actuel de l’annuaire et la manière dont les découvertes sont présentées à l’utilisateur. Cette analyse m’a amenée à m’intéresser particulièrement à la lisibilité et à l’organisation des résultats de recherche.
+
+A partir de cela, j'ai commencé à réfléchir à différentes améliorations possibles
+
+- indiquer si une découverte a déjà été découverte ou non par l’utilisateur
+- améliorer l’organisation des filtres afin de faciliter la navigation dans l’annuaire
+- améliorer l'interface
+
+
+
 ### 2. Réalisation
 
-> Présentez les principales **contributions réalisées durant le projet**.
->
-> Selon la nature du projet, il peut s'agir par exemple :
->
-> * de fonctionnalités développées ;
-> * d'un prototype ou d'une preuve de concept ;
-> * d'une architecture ou d'une infrastructure mise en place ;
-> * d'un traitement ou d'une transformation de données ;
-> * d'une API, d'un outil ou d'un service ;
-> * d'une amélioration apportée à un système existant ;
-> * d'une expérimentation technique ;
-> * d'une démarche de conception ou de modélisation.
->
-> Présentez les éléments les plus importants ainsi que les principaux choix ayant orienté leur réalisation.
->
-> L'objectif est de montrer **ce qui a effectivement été accompli**, et non de dresser simplement la liste des tâches réalisées.
+À partir de l’interface existante, j’ai étudié différentes propositions de conception afin de rendre les résultats plus lisibles et de permettre à l’utilisateur d’identifier rapidement les informations importantes.
+
 
 ### 3. Évaluation
 
