@@ -56,10 +56,10 @@ J'ai eu une réunion avec Christian qui m'as aidé à installé les logiciels et
 
 !!! Idées pour le projet
     - Notifications IOS
-    - Améliorer la recherche dans l'annulaire
+    - Améliorer la recherche dans l'annuaire
     - Améliorer la galerie dans "ma collection", ajouter un filtrage,..
 
-Je pense choisir l'amélioration de la recherche dans l'annulaire avec ces sous-objectifs: 
+Je pense choisir l'amélioration de la recherche dans l'annuaire avec ces sous-objectifs: 
 
 <ol>
   <li>Repenser l'interface de recherche</li>
@@ -67,3 +67,36 @@ Je pense choisir l'amélioration de la recherche dans l'annulaire avec ces sous-
   <li>Ajouter options de tri</li>
   <li>Ajouter un checkbox si c'est découvert ou pas</li>
 </ol>
+
+Voici un petit schéma que j'ai fais pour avoir une petite visualisation
+
+<img src="photo1.png" alt="Maquette de la recherche" width="400">
+<img src="photo2.png" alt="Maquette des filtres" width="400">
+
+## Semaine 4 (28 septembre – 4 octobre)
+
+### Travail réalisé
+- Plus de précision sur les taches à accomplir pour le projet
+- Benchmark
+
+J'ai eu une reunion avec l'equipe tech de la maison MONA(Léna, alix, Jonathan et Mariama), où j'ai pu leur expliquer mon projet, soit l'amélioration de la recherche. Léna m'as donné quelques idées que je pourrais ajouter a mon implémentation; lier les badges à la recherche, utiliser Mobbin pour benchmark d'autres applications qui ont une page de recherche. 
+J'ai donc passé un après-midi sur le benchmark et de bien définir tout ce que je vais rajouter a la recherche;
+Au niveau de la recherche:
+<ol>
+  <li>Ajouter la recherche par artiste (il va falloir créer des cartes pour chaque artiste)</li>
+  <li>Permettre à l'utilisateur de faire des typos</li>
+</ol>
+
+Au niveau de l'interface:
+<ol>
+  <li>Première page, on peut choisir d'explorer les artistes, oeuvres d'art, lieux patrimoniaux, lieux culturels ou quartier</li>
+  <ul>
+    <li>Si on choisi artiste ou une découverte(oeuvres d'art, lieux patrimoniaux, lieux culturels) on a une liste avec barre alphabétique a droite</li>
+    <img src="photo3.jpeg" alt="Maquette de la recherche" width="400">
+    <li>Si on choisi quartier, on a une page où on peut choisir un quartier avec le nombre de découvertes à cote, quand on choisi un quartier spécifique on a notre progression -/10 et toutes les découvertes</li>
+    <img src="photo4.jpeg" alt="Maquette de la recherche" width="400">
+    <li>Si on choisi de rechercher, et ensuite les filtres qui sont: quartier, statut, période et le nombre de résultats s'affiche en dessous. Ensuite on peut chosiir de les trier par distance, ordre alphabétique ou par rating</li>
+    <img src="photo5.jpeg" alt="Maquette de la recherche" width="500">
+  </ul>
+</ol>
+Ensuite j'ai contacté Mariama qui s'occupe du coté serveur donc qui connait bien les données qu'on recoit de m'envoyer une liste des informations qu'on a sur chaque découverte qui arrive chez nous pour trouver d'autres filtres que je pourrais ajouter.
