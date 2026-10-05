@@ -78,6 +78,7 @@ Voici un petit schéma que j'ai fais pour avoir une petite visualisation
 ### Travail réalisé
 - Plus de précision sur les taches à accomplir pour le projet
 - Benchmark
+- Rendu la zone invitant l’utilisateur à prendre une photo cliquable
 
 J'ai eu une reunion avec l'equipe tech de la maison MONA(Léna, alix, Jonathan et Mariama), où j'ai pu leur expliquer mon projet, soit l'amélioration de la recherche. Léna m'as donné quelques idées que je pourrais ajouter a mon implémentation; lier les badges à la recherche, utiliser Mobbin pour benchmark d'autres applications qui ont une page de recherche. 
 J'ai donc passé un après-midi sur le benchmark et de bien définir tout ce que je vais rajouter a la recherche;
@@ -100,3 +101,5 @@ Au niveau de l'interface:
   </ul>
 </ol>
 Ensuite j'ai contacté Mariama qui s'occupe du coté serveur donc qui connait bien les données qu'on recoit de m'envoyer une liste des informations qu'on a sur chaque découverte qui arrive chez nous pour trouver d'autres filtres que je pourrais ajouter.
+
+En parallèle, j'ai rendu une zone contenant une illustration qui invite l'utilisatuer de prendre une photo cliquable, l'utilisateur pourra cliquer sur le bouton "Photographier" ou directement sur la zone.
