@@ -79,6 +79,7 @@ Voici un petit schéma que j'ai fais pour avoir une petite visualisation
 - Plus de précision sur les taches à accomplir pour le projet
 - Benchmark
 - Rendu la zone invitant l’utilisateur à prendre une photo cliquable
+- Lecture de la documentation Ionic
 
 J'ai eu une reunion avec l'equipe tech de la maison MONA(Léna, alix, Jonathan et Mariama), où j'ai pu leur expliquer mon projet, soit l'amélioration de la recherche. Léna m'as donné quelques idées que je pourrais ajouter a mon implémentation; lier les badges à la recherche, utiliser Mobbin pour benchmark d'autres applications qui ont une page de recherche. 
 J'ai donc passé un après-midi sur le benchmark et de bien définir tout ce que je vais rajouter a la recherche;
@@ -102,4 +103,16 @@ Au niveau de l'interface:
 </ol>
 Ensuite j'ai contacté Mariama qui s'occupe du coté serveur donc qui connait bien les données qu'on recoit de m'envoyer une liste des informations qu'on a sur chaque découverte qui arrive chez nous pour trouver d'autres filtres que je pourrais ajouter.
 
-En parallèle, j'ai rendu une zone contenant une illustration qui invite l'utilisatuer de prendre une photo cliquable, l'utilisateur pourra cliquer sur le bouton "Photographier" ou directement sur la zone.
+
+## Semaine 5 (25 octobre - 11 octobre)
+
+### Travail réalisé
+- Finalisation du benchmark
+- Commencer le projet
+- Rendu une zone avec une image cliquable pour capturer une photo
+
+J'ai rendu une zone contenant une illustration qui invite l'utilisatuer de prendre une photo cliquable, l'utilisateur pourra cliquer sur le bouton "Photographier" ou directement sur la zone.
+
+J'ai aussi préparer une présentation pour ma vision de l'interface de l'annuaire pour montrer a Barbara lors de la réunion graphisme le 15 octobre.
+En parallèle, j'ai fait quelques recherches et lu la documentation ionic au niveau des typos dans la recherche dans l'annuaire. J'ai trouvé qu'il va falloir que j'implémente le fuzzy search car ionic, par défaut nécessite une correspondance textuelle exacte. 
+Donc j'ai commencé cette implémentation ainsi que la recherche par nom d'artiste.
