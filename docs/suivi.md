@@ -108,11 +108,15 @@ Ensuite j'ai contacté Mariama qui s'occupe du coté serveur donc qui connait bi
 
 ### Travail réalisé
 - Finalisation du benchmark
-- Commencer le projet
+- Commencer le projet au niveau de la recherche
 - Rendu une zone avec une image cliquable pour capturer une photo
+- Ajouter des idées pour le projet
+
 
 J'ai rendu une zone contenant une illustration qui invite l'utilisatuer de prendre une photo cliquable, l'utilisateur pourra cliquer sur le bouton "Photographier" ou directement sur la zone.
 
+Après la réunion de la semaine passé, j'ai eu du feedback sur mes idées qui m'as permis d'ajouter quelques précision; surligner le mot tapé dans la barre de recherche dans les résultats qui ressortent dans l'annuaire(si l'utilisateur recherche monum alors dans les résultats monum sera surlignée). On a aussi penser a relier les badges quartiers à l'annuaire pour permettre a l'utilisateur de compléter ses badges plus facilement(quand l'utilisateur se trouve dans ses badges quartiers on lui affiche le nombre découvertes restantes pour acquérir le badge et il peut cliqué sur "Voir les découvertes" pour aller à la section du quartier correspondant dans l'annuaire avec une liste des découvertes)
 J'ai aussi préparer une présentation pour ma vision de l'interface de l'annuaire pour montrer a Barbara lors de la réunion graphisme le 15 octobre.
 En parallèle, j'ai fait quelques recherches et lu la documentation ionic au niveau des typos dans la recherche dans l'annuaire. J'ai trouvé qu'il va falloir que j'implémente le fuzzy search car ionic, par défaut nécessite une correspondance textuelle exacte. 
-Donc j'ai commencé cette implémentation ainsi que la recherche par nom d'artiste.
+Donc j'ai commencé cette implémentation ainsi que celle de la recherche par nom d'artiste et le fait d'avoir le mot surligné dans les résultats.
+
