@@ -117,6 +117,26 @@ J'ai rendu une zone contenant une illustration qui invite l'utilisatuer de prend
 
 Après la réunion de la semaine passé, j'ai eu du feedback sur mes idées qui m'as permis d'ajouter quelques précision; surligner le mot tapé dans la barre de recherche dans les résultats qui ressortent dans l'annuaire(si l'utilisateur recherche monum alors dans les résultats monum sera surlignée). On a aussi penser a relier les badges quartiers à l'annuaire pour permettre a l'utilisateur de compléter ses badges plus facilement(quand l'utilisateur se trouve dans ses badges quartiers on lui affiche le nombre découvertes restantes pour acquérir le badge et il peut cliqué sur "Voir les découvertes" pour aller à la section du quartier correspondant dans l'annuaire avec une liste des découvertes)
 J'ai aussi préparer une présentation pour ma vision de l'interface de l'annuaire pour montrer a Barbara lors de la réunion graphisme le 15 octobre.
+
 En parallèle, j'ai fait quelques recherches et lu la documentation ionic au niveau des typos dans la recherche dans l'annuaire. J'ai trouvé qu'il va falloir que j'implémente le fuzzy search car ionic, par défaut nécessite une correspondance textuelle exacte. 
 Donc j'ai commencé cette implémentation ainsi que celle de la recherche par nom d'artiste et le fait d'avoir le mot surligné dans les résultats.
 
+## Semaine 6 (12 octobre - 18 octobre)
+
+### Travail réalisé
+- Fuzzy search, recherche fonctionne avec une faute
+- Reunion avec l'èquipe tech et Barbara(graphiste) pour discuter de l'interface de l'annuaire et voir mes idées
+
+J'ai crée une fonction isSimiliar qui verifie d'abord si le texte cherché apparait directement, sinon du moment que le mot à plus de 3 caractères fait appel au calcul de la distance de Levenshtein avec une limite de 2 caractères de différence.
+
+## Semaine 7 (19 octobre - 25 octobre)
+
+### Travail réalisé
+J'ai d'abord exploré les APIs et avec l'aide de Léna trouvé une dédié aux artistes, donc j'ai crée un fichier ArtistDatabase.ts pour récupérer les artistes depuis l’API et les conserver dans une liste indépendante.
+
+Jai trouvé qu'on a 824 artistes!!
+
+Ensuite j'ai ajouté une méthode searchArtists() qui réutilise la logique de recherche existante pour chercher les artistes par nom.
+Pour l'instant l'affichage reste juste le nom des artistes, il faut encore que je leur créer des pages de détails où l'utilisateur se retrouvera quand il cliquera sur son nom.
+
+<img src="artiste.png" alt="Maquette de la recherche" width="200">
