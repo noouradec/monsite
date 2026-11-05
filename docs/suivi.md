@@ -140,3 +140,41 @@ Ensuite j'ai ajouté une méthode searchArtists() qui réutilise la logique de r
 Pour l'instant l'affichage reste juste le nom des artistes, il faut encore que je leur créer des pages de détails où l'utilisateur se retrouvera quand il cliquera sur son nom.
 
 <img src="artiste.png" alt="Maquette de la recherche" width="200">
+<img src="rech.png" alt="Maquette de la recherche" width="200">
+
+## Semaine 8 (26 octobre - 1 novembre)
+
+### Travail réalisé
+- Améliorer affichage de recherche générale(séparation entre artistes et découvertes)
+- Page de détails de chaque artiste
+
+Réunion avec Barbara où elle nous a montré ses wireframes, soit une vision concréte de l'annuaire qu'on a décidé de changer à une page d'exploration. 
+
+Grace aux wireframes j'ai pu commencer a crée la page de recherche générale (artistes + découvertes) où on a une section artistes et une section découvertes avec tout les 2 un bouton "Tout Voir (nb de résultats)".
+
+J'ai aussi commencé les pages détails de chaque Artiste, où on affiche son nom, une bréve description avec une liste de toutes ces oeuvres, mais j'ai rencontré des difficultés pour la description car dans l'API les seuls infos qu'on a sur eux sont des liens à des sites web. Donc j'ai mis les liens dans la description.
+
+
+## Semaine 9 (2 novembre - 8 novembre)
+
+### Travail réalisé
+- Passe de l'annuaire à une page d'exploration
+- Squelette de la page d'exploration
+- Créer page avec la recherche filtré sur les catégories
+- Changement de l'icon et nom de la section
+
+J'ai commencé l'implémentation de la page d'exploration, où on a une section avec les différentes catégories et une section qui nous emmene a une recherche d'artistes uniquement.
+
+<img src="explorer.png" alt="Maquette de la page explorer" width="200">
+
+Pour les catégories j'ai commencé à mettre en place des pages individuelles pour chacune d'entre elle. L'idée est d'avoir une seule page réutilisable qui affiche les découvertes correspondant à la catégorie sélectionnée, plutôt que de créer six pages différentes. J'ai réutilisé les fonctionnalités déjà présentes dans la recherche de l'app, la récupération des découvertes triées par distance ou par ordre alphabétique, ainsi que le système d'icônes existant.
+
+<img src="categorie.png" alt="categorie" width="200">
+
+J'ai aussi renommé la section « Annuaire » en « Explorer » et remplacé l’image affichée en bas de la page par une image différente.
+Voici l'avant - après:
+
+<img src="barreavant.png" alt="avant" width="200">
+<img src="barre.png" alt="apres" width="200">
+
+Enfin, j'ai commencé à adapter l'interface des pages de catégories pour qu'elle corresponde à la maquette, notamment au niveau de l'en-tête, de la barre de recherche et des espacements.
