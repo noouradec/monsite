@@ -20,19 +20,19 @@ title: Vue d'ensemble du projet
 
 ## Description du projet
 
-Le projet MONA permet de découvrir l'art public à Montréal, à travers une application mobile grace à la géolocalisation. Les utilisateurs peuvent photographier, sauvegarder et ainsi découvrire des oeuvres d'art autour d'eux. Chaque oeuvre est accompagnée d’une description permettant aux utilisateurs de mieux comprendre ce qu’ils découvrent. Ce semestre d'automne 2026 je participe a ce projet en tant que développeuse mobile.
+Le projet MONA permet de découvrir l'art public à Montréal, à travers une application mobile grace à la géolocalisation. Les utilisateurs peuvent photographier, sauvegarder et ainsi découvrire des oeuvres d'art autour d'eux. Ce semestre d'automne 2026 je participe a ce projet en tant que développeuse mobile.
 
 ### Contexte
  
-Ce projet s’inscrit dans un contexte de valorisation de l’art public et du patrimoine culturel montréalais sous la maison MONA, un organisme a but non-lucratif.
+Ce projet s’inscrit dans un contexte de valorisation de l’art public et du patrimoine culturel montréalais sous la maison MONA.
 
 ### Problématique
 
 L’application MONA permet aux utilisateurs de découvrir des œuvres d’art public à travers un annuaire. Cependant, quand le nombre de découvertes augmente, il peut devenir plus difficile pour l’utilisateur de parcourir les résultats.
 
-L’enjeu est donc de faciliter la recherche et la consultation des découvertes dans l’annuaire, afin que l’utilisateur puisse trouver plus facilement les découvertes qui l’intéressent.
+L’enjeu est donc de faciliter la recherche et la consultation des découvertes dans l’annuaire.
 
-Les fonctionnalités actuelles de recherche et de filtrage permettent déjà de retrouver des découvertes, mais l’affichage et l’organisation des résultats peuvent encore être améliorés pour rendre la consultation plus claire et intuitif.
+Les fonctionnalités actuelles de recherche et de filtrage permettent déjà de retrouver des découvertes, mais l’affichage et l’organisation des résultats peuvent encore être améliorés.
 
 Comment améliorer la recherche et l’affichage des découvertes dans l’annuaire MONA afin de faciliter leur consultation par les utilisateurs?
 
@@ -41,7 +41,6 @@ Comment améliorer la recherche et l’affichage des découvertes dans l’annua
 À la fin du projet, je souhaite :
 
 - Améliorer l’affichage des résultats de l’annuaire
-- Ajouter un indicateur de statut permettant de distinguer les découvertes déjà réalisées des découvertes qui restent à découvrir.
 - Repenser l’interface des filtres afin de rendre les différents critères plus clairs
 - Implémenter et tester les modifications dans l’application afin de vérifier qu’elles fonctionnent correctement et qu’elles ne changent pas les fonctionnalités existantes.
 
@@ -65,5 +64,5 @@ Comment améliorer la recherche et l’affichage des découvertes dans l’annua
 |--------------------------------|---------|---------|-------------------------------------|-------------|
 | Première réunion.              | 8 septembre| 8 septembre | Prise de notes.              | ✅ Terminé  |
 | Études préliminaires / Intégration| 14 septembre  | 20 septembre| Document d'analyse         | ✅ Terminé |
-| Code / Développement           | 21 septembre|             |  Documentation sur site      | En cours   |
+| Code / Développement           | 21 septembre|   11 novembre          |  Documentation sur site      | En cours   |
 | Présentation + Rapport         |    |    | Présentation + Rapport              | ⏳ À venir  |

@@ -13,10 +13,6 @@ title: Synthèse
 
 # Évaluation
 
-## Structure suggérée
-
-> La structure suivante est donnée à titre indicatif.  
-> Vous pouvez l’adapter selon la nature du projet.
 
 ### 1. Études préliminaires
 
@@ -37,7 +33,7 @@ A partir de cela, j'ai commencé à réfléchir à différentes améliorations p
 
 ### 2. Réalisation
 
-À partir de l’interface existante, j’ai étudié différentes propositions de conception afin de rendre les résultats plus lisibles et de permettre à l’utilisateur d’identifier rapidement les informations importantes.
+À partir de l’interface existante, j’ai étudié différentes propositions de conception en faisant des benchmarks ainsi que conçu des schéma sur mon Ipad pour permettre à l'èquipe de visualiser mes idées pour le projet. Cela à permit premièrement a discuter sur certaines choses à améliorer ou pas ainsi qu'à permettre à la graphiste de l'èquipe de créer des wireframes sur Figma, pour ensuite que je puisse commencer à coder l'interface. 
 
 
 ### 3. Évaluation

@@ -154,6 +154,8 @@ Grace aux wireframes j'ai pu commencer a crée la page de recherche générale (
 
 J'ai aussi commencé les pages détails de chaque Artiste, où on affiche son nom, une bréve description avec une liste de toutes ces oeuvres, mais j'ai rencontré des difficultés pour la description car dans l'API les seuls infos qu'on a sur eux sont des liens à des sites web. Donc j'ai mis les liens dans la description.
 
+<img src="pagedetail.png" alt="Maquette de la page detail pour chaque artiste" width="200">
+
 
 ## Semaine 9 (2 novembre - 8 novembre)
 
@@ -165,7 +167,13 @@ J'ai aussi commencé les pages détails de chaque Artiste, où on affiche son no
 
 J'ai commencé l'implémentation de la page d'exploration, où on a une section avec les différentes catégories et une section qui nous emmene a une recherche d'artistes uniquement.
 
+Wireframes:
+
 <img src="explorer.png" alt="Maquette de la page explorer" width="200">
+
+L'app:
+
+<img src="explorer2.png" alt="Maquette de la page explorer" width="200">
 
 Pour les catégories j'ai commencé à mettre en place des pages individuelles pour chacune d'entre elle. L'idée est d'avoir une seule page réutilisable qui affiche les découvertes correspondant à la catégorie sélectionnée, plutôt que de créer six pages différentes. J'ai réutilisé les fonctionnalités déjà présentes dans la recherche de l'app, la récupération des découvertes triées par distance ou par ordre alphabétique, ainsi que le système d'icônes existant.
 
@@ -178,3 +186,11 @@ Voici l'avant - après:
 <img src="barre.png" alt="apres" width="200">
 
 Enfin, j'ai commencé à adapter l'interface des pages de catégories pour qu'elle corresponde à la maquette, notamment au niveau de l'en-tête, de la barre de recherche et des espacements.
+
+
+## Semaine 9 (9 novembre - 15 novembre)
+### Travail réalisé
+- Implémentation de Soundex(recherche phonétique)
+- Ajuster le CSS des différentes pages à l'aide des wireframes
+
+Lors de ma mise en commun 2 on a discuté de ma recherche autorisant 2 typos et on m’as proposé d'ajouter à cela l'algorithme phonétique Soundex. Du coup je me suis informé dessus et je l'ai ajouté a ma fonction isSimilair().

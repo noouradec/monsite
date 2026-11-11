@@ -19,72 +19,27 @@ title: Travail réalisé
 
 ## Références utilisées
 
-> Selon la nature du projet, vous pouvez notamment référencer :
->
-> * articles scientifiques ou techniques ;
-> * livres et ouvrages de référence ;
-> * documentation officielle ;
-> * normes et spécifications ;
-> * bibliothèques, frameworks et outils importants ;
-> * jeux de données et API ;
-> * projets ou solutions existantes étudiées ;
-> * rapports, études ou publications institutionnelles ;
-> * ressources Web pertinentes.
->
-> Il n'est pas nécessaire de répertorier chaque page consultée. Privilégiez les références qui ont **réellement soutenu, orienté ou influencé votre travail**.
+- https://www.geeksforgeeks.org/dsa/introduction-to-levenshtein-distance/ 
+- https://www.codedrome.com/the-soundex-algorithm-in-javascript/ 
+- https://www.geeksforgeeks.org/software-testing/what-is-an-api/ 
+- https://ionicframework.com/ 
 
 ### Présentation des références
 
-> Pour chaque référence importante, fournissez :
->
-> * les informations permettant d'identifier et de retrouver la source ;
-> * une courte justification de **1 à 2 phrases** expliquant son rôle dans le projet.
->
-> La justification peut notamment indiquer si la référence a servi à :
->
-> * comprendre le problème ;
-> * comparer des approches ;
-> * orienter un choix technique ;
-> * concevoir ou implémenter une solution ;
-> * définir une méthode d'évaluation ;
-> * interpréter des résultats.
 
-### Exemple
+- Distance de Levenshtein: https://www.geeksforgeeks.org/dsa/introduction-to-levenshtein-distance/
+*Introduction to Levenshtein Distance*. GeeksforGeeks, 2024.
+Cette référence a permis de comprendre le fonctionnement de la distance de Levenshtein. Elle a servi de base pour tolérer 2 fautes de frappes(typos) dans le moteur de recherche de l'annuaire de Maison MONA.
 
-> **Mozilla Developer Network.** *Web APIs*.
-> https://developer.mozilla.org/
->
-> Cette documentation a été utilisée comme référence principale pour comprendre le fonctionnement des API Web exploitées dans l'application et valider certains choix d'implémentation.
+- Algorithme Soundex: https://www.codedrome.com/the-soundex-algorithm-in-javascript/
+*The Soundex Algorithm in JavaScript*. CodeDrome.
+Cette réference présente l'algorithme Soundex, qui permet d'encoder phonétiquement les mots afin de regrouper ceux dont la prononciation est similaire malgré des différences orthographiques. Elle a servi pour améliorer la recherche.
 
-> **Nom de l'auteur.** *Titre de l'article*. Nom de la publication, année.
->
-> Cet article a permis de comparer différentes approches au problème étudié et a contribué au choix de la méthode retenue dans le projet.
+- Implémentation d'API: https://www.geeksforgeeks.org/software-testing/what-is-an-api/ 
+*Introduction to API (Application Programming Interface)*. GeeksforGeeks.
+Cette réference a permis de mieux comprendre le fonctionnement des API. Elle a été consultée pour comprendre les mécanismes d'échange de données et mon implémentation de l'API avec des données sur l'artiste dans l'app.
 
-## Utilisation de l'intelligence artificielle
+- Ionic Framework: https://ionicframework.com/ 
+*Ionic Framework – Official Documentation*. Ionic.
+La documentation officielle d'Ionic m'a servi de référence technique pour le développement de l'app. Elle a notamment permis de consulter les composants de l'interface et les fonctionnalités du framework.
 
-> Documentez les principaux usages de **systèmes d'intelligence artificielle générative ou d'assistants basés sur des modèles de langage** dans le cadre du projet.
->
-> L'objectif n'est pas de retranscrire l'ensemble des conversations ou requêtes effectuées, mais de rendre explicite **le rôle joué par ces outils dans votre démarche**.
-
-### Pour chaque outil utilisé
-
-> Indiquez, lorsque pertinent :
->
-> * le nom de l'outil ou du modèle utilisé ;
-> * les principales tâches pour lesquelles il a été employé ;
-> * la manière dont les résultats produits ont été vérifiés, adaptés ou intégrés au projet ;
-> * les limites ou problèmes rencontrés lors de son utilisation.
-
-### Exemple
-
-> **ChatGPT — OpenAI**
->
-> Utilisé principalement pour explorer différentes stratégies de traitement des données et générer des pistes d'implémentation. Les propositions obtenues ont été vérifiées à partir de la documentation officielle et adaptées à l'architecture du projet avant leur intégration.
-
-> **GitHub Copilot**
->
-> Utilisé ponctuellement pour assister la rédaction de code répétitif et de tests. Le code généré a été révisé et testé par l'équipe avant d'être conservé dans le projet.
-
-## Références
-
-> Ajoutez vos références ci-dessous en utilisant une présentation cohérente.
