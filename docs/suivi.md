@@ -192,5 +192,25 @@ Enfin, j'ai commencé à adapter l'interface des pages de catégories pour qu'el
 ### Travail réalisé
 - Implémentation de Soundex(recherche phonétique)
 - Ajuster le CSS des différentes pages à l'aide des wireframes
+- Implémentation de la recherche par quartier
+
 
 Lors de ma mise en commun 2 on a discuté de ma recherche autorisant 2 typos et on m’as proposé d'ajouter à cela l'algorithme phonétique Soundex. Du coup je me suis informé dessus et je l'ai ajouté a ma fonction isSimilair().
+
+J'ai aussi rajouté les différents Quartiers dans la page explorer, ainsi que sa navigation, soit à une page de recherche pour chaque.
+
+<img src="quartier1.png" alt="avant" width="200">
+<img src="quartier2.png" alt="avant" width="200">
+
+Lors de la réunion, j'ai proposé des filtres différents dépendant dans quel page de recherche on se trouve;
+
+- Toutes les découvertes: Trie(Distance, Ordre alphabétique, Date) et par Quartier (sélectionner un ou plusieurs quartiers)
+
+- Quartier: Trie (Distance, Ordre alphabétique, Date) et par Catégorie (Oeuvre d'art, patrimoine, lieu culutrel)
+
+- Catégorie: Trie (Distance, Ordre alphabétique, Date) et par Quartier (sélectionner un ou plusieurs quartiers)
+
+- Tous les artistes: Trie (Ordre alphabétique, nombre d'oeuvres décroissant, nombre d'oeuvres croissant)
+
+## Semaine 10 (16 novembre - 22 novembre)
+- Réunion avec Chris(développeur mobile) pour poser des questions sur comment gérer déploiment et tester hors local

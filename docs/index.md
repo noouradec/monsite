@@ -13,7 +13,7 @@ title: Vue d'ensemble du projet
 # Vue d'ensemble du projet
 
 !!! info "Informations générales"
-    **Session**: Été 2026  
+    **Session**: Automne 2026  
     **Auteur**: Noura Deconde   
     **Thème(s)**: Médiatisation de l'art public     
     **Superviseur**: Benoit Baudry  
