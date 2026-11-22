@@ -214,3 +214,7 @@ Lors de la réunion, j'ai proposé des filtres différents dépendant dans quel 
 
 ## Semaine 10 (16 novembre - 22 novembre)
 - Réunion avec Chris(développeur mobile) pour poser des questions sur comment gérer déploiment et tester hors local
+- Nettoyer le code, rajouter des commentaires 
+- Pull request pour permettre a mon superviseur de review le code
+J'ai aussi changer le fuzzy search; soit pour la recherche générale et la recherche par quartier on a le droit a 2 typos. Mais pour la recherche par nom d'artiste on a le droit à 2 typos + des fautes phonétiques. J'ai fait ce changement car la recherche devenait "trop fuzzy" soit pour un mot simple je me rettrouvais avec beaucoup trop de résultats loin de ma recherche.
+Il me reste encore a crée la navigation pour aller de la page de détails d'un artiste aux différentes oeuvres qu'il a crée.
