@@ -204,7 +204,7 @@ J'ai aussi rajouté les différents Quartiers dans la page explorer, ainsi que s
 
 Lors de la réunion, j'ai proposé des filtres différents dépendant dans quel page de recherche on se trouve;
 
-- Toutes les découvertes: Trie(Distance, Ordre alphabétique, Date) et par Quartier (sélectionner un ou plusieurs quartiers)
+- Toutes les découvertes: Trie(Distance, Ordre alphabétique, Date) et par Quartier (sélectionner un ou plusieurs quartiers) et par Catégorie(Oeuvre d'art, patrimoine, lieu culutrel)
 
 - Quartier: Trie (Distance, Ordre alphabétique, Date) et par Catégorie (Oeuvre d'art, patrimoine, lieu culutrel)
 
@@ -214,7 +214,14 @@ Lors de la réunion, j'ai proposé des filtres différents dépendant dans quel 
 
 ## Semaine 10 (16 novembre - 22 novembre)
 - Réunion avec Chris(développeur mobile) pour poser des questions sur comment gérer déploiment et tester hors local
-- Nettoyer le code, rajouter des commentaires 
+- Nettoyer le code
 - Pull request pour permettre a mon superviseur de review le code
 J'ai aussi changer le fuzzy search; soit pour la recherche générale et la recherche par quartier on a le droit a 2 typos. Mais pour la recherche par nom d'artiste on a le droit à 2 typos + des fautes phonétiques. J'ai fait ce changement car la recherche devenait "trop fuzzy" soit pour un mot simple je me rettrouvais avec beaucoup trop de résultats loin de ma recherche.
 Il me reste encore a crée la navigation pour aller de la page de détails d'un artiste aux différentes oeuvres qu'il a crée.
+
+## Semaine 11 (23 novembre - 29 novembre)
+- Nettoyer le code
+- Debugger 
+
+J'ai continuer a nettoyer mon code pour éviter la duplication de logique entre les filtres, j'ai clarifier le noms des fonctions et variables, j'ai mieux organiser la logique et rajouter de la documentation.
+J'ai trouvé un bug au niveau de la navigation pour voir une oeuvre d'un artiste spécifique sur la carte; page explorer -> tous les artistes -> page details -> oeuvre -> map. Je soupçonne un problème de transmission ou de gestion de l'état de navigation entre ces étapes, que je dois encore isoler et tester.
